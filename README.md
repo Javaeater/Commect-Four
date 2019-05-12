@@ -1,2 +1,2 @@
 # Connect-Four
-1v1 connect for game
+1v1 connect four game
